@@ -1,0 +1,20 @@
+Hi, I am Riya and I am gonna write some code.
+Coding is my favourite activity to do.
+I love coding in python.
+Python is a scripting language
+
+
+Natural Language Toolkit
+
+NLTK is a powerful Python package that contains several algorithms to help computers
+preprocess, analyse, and understand natural languages and written texts
+
+ - Tokenization
+ - POS Tagging
+ - Named Entity Recognition
+
+Corpora
+
+A corpus is a huge collection of written texts. A compilation of corpus is called a Corpora
+It is a body of written or spoken texts used in linguistic analysis and development of
+NLP tools.
